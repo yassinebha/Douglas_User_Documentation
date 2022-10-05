@@ -17,7 +17,6 @@ Once accounts have been created new users will be invited to meet in person
 
 ## Ask a support question
 
-Support for the Douglas Neuroinformatics platform is provided on the forum
-located at [https://discourse.douglasneuroinformatics.ca/](https://discourse.douglasneuroinformatics.ca/)
+To reach out for support write to : [support@douglasneuroinformatics.ca](mailto:support@douglasneuroinformatics.ca)
 
-Invite-only access is provided during initial sign-up.
+Please refer to the {ref}`Getting Help<getting_help:asking for help>` section for better reporting of your problem.
