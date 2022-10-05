@@ -36,3 +36,6 @@ maximum useful information:
 - [How To Ask Questions The Smart Way -- Be Precise](http://www.catb.org/~esr/faqs/smart-questions.html#beprecise)
 - [The XY Problem](https://en.wikipedia.org/wiki/XY_problem)
 - [Minimal Reproducable Example](https://stackoverflow.com/help/minimal-reproducible-example)
+
+
+To reach out for support write to : [support@douglasneuroinformatics.ca](mailto:support@douglasneuroinformatics.ca)
